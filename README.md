@@ -59,7 +59,7 @@ int primitive_check(int g, int p, int L[]) {
 int main() {
     int P, G, x1, x2, y1, y2, k1, k2;
     int L[100]; // Store values for primitive check, size 100 for large p
-    printf("JAYABHARATHI - 212222100013\n");
+    printf("Mohanish K - 212222100028\n");
     
     // Input prime number P
     while (1) {
@@ -121,7 +121,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/a6a0851c-6337-429d-8df4-1495e9121ac4)
+![image](https://github.com/user-attachments/assets/65027984-3c28-455a-891b-d991354e53e9)
+
 
 ## RESULT:
   Thus the Diffie-Hellman key exchange algorithm had been successfully implemented using C
