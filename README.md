@@ -112,7 +112,7 @@ int main() {
     if (k1 == k2) {
         printf("Keys have been exchanged successfully\n");
     } else {
-        printf("Keys have been exchanged successfully\n");
+        printf("Keys have been not exchanged successfully\n");
     }
 
     return 0;
